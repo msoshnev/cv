@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Максим Сошнев
+name: '[DRAFT] Максим Сошнев'
 title: '[DRAFT] Инженер по разработке ПО, middle'
 
 email: soshnev.maxim11@gmail.com
@@ -31,7 +31,7 @@ additional_links:
 about_title: "О себе"
 about_profile_image: images/me.jpg
 about_content: |
-  Сетевой программист с двухлетним коммерческим и пятилетним учебным опытом разработки на языках <mark>Python</mark>, <mark>C</mark> и <mark>C++</mark>. Увлечен созданием интересных и полезных информационных решений. Также изучаю различные сетевые технологии. Мне нравится работать в команде и вместе достигать поставленных целей. Рассматриваю работу удаленного или смешанного формата.
+  Дорогой рекрутер, резюме IN PROGRESS
 
 content:
   - title: Технические навыки
@@ -39,20 +39,7 @@ content:
     content:
       - layout: top-right
         description: |
-          - Программирование:
-            * Основной язык - <mark>Python</mark>, второстепенные - <mark>C</mark> и <mark>C++</mark>.
-            * Опыт написания десктопных, клиент-серверных и многопоточных приложений под <mark>UNIX</mark>-системы.
-            * Опыт работы с <mark>ORM</mark>.
-            * Хорошие знания алгоритмов, структур данных и различных паттернов разработки.
-            * Опыт написания unit-тестов и проведения код-ревью.
-          - Сетевое администрирование:
-            * Опыт проектирования и администрирования сетевой инфраструктуры, проведение траблшутинга.
-            * Настройка маршрутизации и коммутации (<mark>OSPF</mark>, <mark>BGP</mark>, <mark>LDP</mark> и т.д.).
-            * Знание протоколов стека <mark>TCP/IP</mark>.
-            * Опыт в нахождении уязвимостей в реализации сетевых протоколов.
-          - Системное администрирование: Опыт администрирования <mark>linux</mark>-систем (<mark>Arch</mark>, <mark>Debian</mark>), автоматизации различных процессов.
-          - Инфраструктура: <mark>GitLab CI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>TeamCity</mark>.
-          - СУБД: Опыт работы с <mark>PostgreSQL</mark> и <mark>MySQL</mark>
+          Дорогой рекрутер, резюме IN PROGRESS
 
   - title: Опыт работы
     layout: list
@@ -187,6 +174,9 @@ content:
 
             - Графовые методы представления функциональных компонентов программных систем
 
+  - title: Дополнительное образование
+    layout: list
+    content:
       - layout: top
         border: weak
         title: Cisco Network Academy
