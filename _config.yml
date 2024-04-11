@@ -37,7 +37,7 @@ content:
   - title: Технические навыки
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         description: |
           Дорогой рекрутер, резюме IN PROGRESS
 
