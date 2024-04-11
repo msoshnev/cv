@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Максим Сошнев
-title: Сетевой программист, middle
+title: '[DRAFT] Инженер по разработке ПО, middle'
 
 email: soshnev.maxim11@gmail.com
 phone: +7-(911)-724-67-08
@@ -59,9 +59,29 @@ content:
     content:
       - layout: top
         border: weak
+        title: YADRO
+        sub_title: Инженер по разработке ПО, middle
+        caption: июнь 2022 - настоящее время
+        link: https://yadro.com/
+        quote: >
+          Компания-разработчик ИТ-оборудования
+        description: lalalala
+
+      - layout: top
+        border: weak
+        title: Yandex practicum
+        sub_title: Код ревьювер
+        caption: май 2023 - настоящее время
+        link: http://emzior.ru/
+        quote: >
+          Сервис онлайн-образования
+        description: lalalala
+
+      - layout: top
+        border: weak
         title: Emzior Technologies
         sub_title: Инженер-программист, middle
-        caption: апрель 2022 - настоящее время
+        caption: апрель 2022 - июнь 2023
         link: http://emzior.ru/
         quote: >
           Компания-разработчик программного обеспечения для телекоммуникационного оборудования
@@ -79,7 +99,7 @@ content:
 
           - Написание тестовых сценариев для настройки маршрутизаторов, коммутаторов и другого оборудования.
 
-          - Настройка разрабатываемого ПО на процессорных платах (Байкал, Эльбрус) и виртуальных машинах. Настройка сетевых топологий. Тестирование сетевых устройств средствами <mark>Jenkins</mark>. 
+          - Настройка разрабатываемого ПО на процессорных платах (Байкал, Эльбрус) и виртуальных машинах. Настройка сетевых топологий. Тестирование сетевых устройств средствами <mark>Jenkins</mark>.
 
           - Разработка собственных пайплайнов для Jenkins (средствами <mark>Python</mark> и <mark>bash</mark>).
 
@@ -205,4 +225,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
 ]
-
