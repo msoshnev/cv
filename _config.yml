@@ -31,7 +31,7 @@ additional_links:
 about_title: "О себе"
 about_profile_image: images/me.jpg
 about_content: |
-  'Дорогой рекрутер, резюме IN PROGRESS'
+  Я
 
 content:
   - title: Опыт работы (3+ лет)
@@ -103,7 +103,7 @@ content:
         description: |
           Программист в проекте "Корабли".
 
-          Стек: <mark></mark>, <mark>Python</mark>
+          Стек: <mark>C++</mark>, <mark>Python</mark>
 
           Обязанности:
 
