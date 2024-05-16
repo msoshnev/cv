@@ -34,14 +34,7 @@ about_content: |
   'Дорогой рекрутер, резюме IN PROGRESS'
 
 content:
-  - title: Технические навыки
-    layout: list
-    content:
-      - layout: top-left
-        description: |
-          Дорогой рекрутер, резюме IN PROGRESS
-
-  - title: Опыт работы
+  - title: Опыт работы (3+ лет)
     layout: list
     content:
       - layout: top
